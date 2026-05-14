@@ -8,8 +8,11 @@ Typee Script ( Basics)
 2. Compile and Run 
     tsc <.ts> file // Compiles 
     node <js> file 
+
     ![alt text](image1.png)
+
     ![alt text](image.png)
+    
 3. TSDEMO1
    print cmd on console.log
 4. TS01 
