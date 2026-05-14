@@ -17,10 +17,13 @@ Typee Script ( Basics)
    print cmd on console.log
 4. TS01 
     Data Types ( number & String )
-5. What Type, Type Inteferance and Typ Annotation ?
+5. What Type, Type Inteferance and Type Annotation ?
     a) (number,String,null, undefined)
+
     b) type Inteferance --> variables write with data type or without data type, at Compile time  applied based on the value. typeof() returnd data type 
-    c) Type Annotation --> Explicitly defining type of variabl 
+
+    c) Type Annotation --> Explicitly defining type of variable
+
 6. Arrays --> collection of similar type of data & dynamic nature (array.push)
 7. Tuples --> fix size and order of elements matters 
 8. additional data types ( any  void and never)
