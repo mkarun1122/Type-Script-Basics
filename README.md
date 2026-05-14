@@ -32,11 +32,17 @@ Typee Script ( Basics)
 11. Switch case statement
 12. Functions 
     a) delcare function --> name function
+
     b) fucntions using parameterized
+
     c) funtion with return data type 
+
     d) Anonymous fuynctions
+
     e) Anonymous fucntion with parameters
+
     f) Anonymous arrow functions 
+    
 13. Loop statement ( For, For..of for ..in , while and do..while)
 14. Arrow Functions , Anonymous functions
 15. Optional and Default params 
